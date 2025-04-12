@@ -1,0 +1,14 @@
+.qodo
+
+# Compiled files
+bin/
+*.class
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
